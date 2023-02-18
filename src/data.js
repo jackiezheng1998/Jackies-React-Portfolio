@@ -28,14 +28,14 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "I have had the pleasure of working with Jackie for months and can confidently say that they are an exceptional teammate. Jackie consistently goes above and beyond to ensure the success of our team and company.",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Jesse Hicks",
     company: "Zoozle",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "What I appreciate most about Jackie is their adaptability and willingness to take on new challenges. They approach every task with enthusiasm and are always eager to learn new skills. Their reliability is also unmatched; they consistently meet deadlines and are always willing to help out where needed.",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
     name: "Ruben Alvarez",
     company: "Dooble.io",
